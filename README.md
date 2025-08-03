@@ -25,7 +25,7 @@ Total Quantity Sold: 1994 units
 Total Transactions: 797
 
 ## Files
-Dashboard screenshots & reports._(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Screenshot%202025-07-19%20114227.png)
+![Dashboard Screenshot](https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Screenshot%202025-07-19%20114227.png)
 
 Excel/CSV files (for data storage & preprocessing) (https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Telco-Customer-Churn.csv)
 
