@@ -27,15 +27,14 @@ Total Transactions: 797
 ## Files
 Dashboard screenshots & reports._(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Screenshot%202025-07-19%20114227.png)
 
+Excel/CSV files (for data storage & preprocessing) (https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Telco-Customer-Churn.csv)
 
 ## Documentation.
 
 Tools Used
 Power BI (for dashboard and visualizations)
 
-Excel/CSV files (for data storage & preprocessing) 
 
-Python/R (if applicable)
 
 
 Open the dashboard file or screenshots to view insights. 
