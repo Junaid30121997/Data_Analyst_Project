@@ -28,7 +28,9 @@ Total Transactions: 797
 Dashboard screenshots & reports._(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Screenshot%202025-07-19%20114227.png)
 
 Excel/CSV files (for data storage & preprocessing) (https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Telco-Customer-Churn.csv)
-(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Complete_Techno_Sales_Data-2%20(1).xlsx)
+
+(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Complete_Techno_Sales_Data-2%20(1).xlsx),
+(https://github.com/Junaid30121997/Data_Analyst_Project/blob/main/Complete_Techno_Sales_Data-2%20(2).xlsx)
 ## Documentation.
 
 Tools Used
